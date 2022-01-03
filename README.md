@@ -29,7 +29,7 @@ In this folder you will find:
 U-Net
 -----------------
 In this folder you will find:
-    - UNet.ipynb: a jupyter notebook with the UNet implementation and testing
+    -UNet.ipynb: a jupyter notebook with the UNet implementation and testing
     -Trained_model.pth: file with the trained UNet that has the lowest training loss
 
 
